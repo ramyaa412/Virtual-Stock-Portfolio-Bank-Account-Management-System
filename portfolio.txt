@@ -1,0 +1,2 @@
+AAPL	1
+GOOG	1
